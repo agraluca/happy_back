@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-  <a href="#-about-the-project">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">Licença</a>
+  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
 </p>
 
 <p id="insomniaButton" align="center">
@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido na Next Level Week #03 evento feito por [Rocketsea
 
 Happy é uma aplicação que conecta pessoa á orfanatos para proporcionar um dia mais feliz para as crianças.
 
-## 🚀 Technologias
+## 🚀 Tecnologias
 
 Technologias que eu utilizei desenvolvendo essa aplicação:
 
