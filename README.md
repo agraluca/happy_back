@@ -30,7 +30,7 @@
   <img alt="Happy" src=".github/happy.png" width="100%">
 </p>
 
-## 🧸 Sobre o projeto
+## :bulb: Sobre o projeto
 
 Esse projeto foi desenvolvido na Next Level Week #03 evento feito por [Rocketseat](https://rocketseat.com.br/) 🚀&nbsp;💜
 
