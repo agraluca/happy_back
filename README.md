@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Happy - Make children's day happy
+  Happy - Faça com que crianças fiquem felizes 
 </h3>
 
 <p align="center">
@@ -82,7 +82,7 @@ $ yarn dev
 ```
 
 
-## 📝 License
+## 📝 Licença
 
 Esse projeto é licenciado pelo MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
